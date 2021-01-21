@@ -1,0 +1,2 @@
+language = "csharp"
+run = "mcs -out:main.exe 'aula 4/URI_1017_Gasto_de_Combustivel.cs'; mono main.exe"
